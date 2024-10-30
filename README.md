@@ -4,9 +4,8 @@ Hi, - 👋 Hi, I’m @KwyFAITH. I'm still a beginner out here, trying to learn a
 - 💞️ I’m looking to collaborate on JavaScript, and more I don't really know right now.
 - 📫 How to reach me
   Gmail: okwukwefaith4@gmail.com
+  
   Twitter: OkwukweF59023
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 KwyFAITH/KwyFAITH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
